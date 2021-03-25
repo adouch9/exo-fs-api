@@ -1,0 +1,8 @@
+La date de lancement de Mainnet 3.0 de Theta est repoussée en juin:
+
+«Nous avons décidé qu'il était important de disposer de plus de temps pour effectuer une révision et des tests plus approfondis du code», 
+a déclaré Theta Labs.
+Le réseau a déclaré qu'il se concentrerait sur la création de son marché NFT, prétendument en raison du boom soudain de l'espace. Theta vise à ce 
+que ses nœuds Elite Edge, qui tokenisent la bande passante Internet, deviennent un espace de stockage décentralisé pour les NFT en établissant 
+des ponts inter-chaînes entre son propre réseau, le réseau Ethereum et d'autres. Cela permettrait de réduire le coût de frappe des NFT 
+sur la blockchain Ethereum.
